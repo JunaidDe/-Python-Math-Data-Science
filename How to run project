@@ -1,0 +1,16 @@
+🚀 How to Run This Project
+1️⃣ Open Google Colab or Jupyter Notebook.
+2️⃣ Clone the repository using:
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/Python-Math-Data-Science.git
+3️⃣ Run the .ipynb file step by step.
+ Future Improvements
+🔹 Add more statistical functions (variance, skewness, etc.)
+🔹 Implement real-world datasets for better analysis
+🔹 Perform feature scaling & data preprocessing
+🏆 Author
+👤 Junaid Ahmad
+💼 Aspiring Data Scientist | Python & ML Enthusiast
